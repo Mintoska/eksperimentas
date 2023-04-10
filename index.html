@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRUD užduotis</title>
+  <link rel="stylesheet" href="./main.css">
+  <script src="./scripts/main.js" type="module"></script>
+</head>
+<body>
+  <main>
+    <section id="newCard">
+      <form id="nauja">
+        <input class="ivest" type="text" name="salis" id="salis" placeholder="Šalies pavadinimas">
+        <input class="ivest" type="text" name="zemynas" id="zemynas" placeholder="Įveskite žemyną..."><br>
+        <input class="ivest" type="number" step="1" name="populiacija" id="populiacija" placeholder="Įveskite gyventojų skaičių...">
+        <input class="ivest" type="text" name="religija" id="religija" placeholder="kokia religija?"><br>
+        <input class="ivest" type="text" name="valiuta" id="valiuta" placeholder="atsiskaitymo valiuta"><br>
+        <div id="karalyste">
+          <label for="karalyste">Ar šalis yra monarchinė?</label>
+          <input type="checkbox" name="karalyste" id="karalyste">
+        </div>
+        <input class="ivest" type="url" name="dImage" id="dImage" placeholder="Pateikite nuotrauką..."><br>
+        <input type="submit" value="Pateikti">
+      </form>
+    </section>
+    <section id="cards">
+      <h1>Let's explore</h1>
+      <div id="korteles">
+        <!-- <div class="card">
+          <h1>Exploring</h1>
+          <img src="" alt="foto">
+          <p>A</p>
+          <p>B</p>
+          <button>remove</button>
+        </div> -->
+      </div>
+    </section>
+  </main>
+</body>
+</html>

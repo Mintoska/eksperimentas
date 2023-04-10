@@ -1,0 +1,81 @@
+{
+  "salys": [
+    {
+      "id": 1,
+      "salis": "Marokas",
+      "zemynas": "Afrika",
+      "populiacija": 37,
+      "valiuta": "Dirhamas",
+      "religion": "musulmonai",
+      "karalyste": true,
+      "linkas": "google.lt",
+      "dImage": "https://live.staticflickr.com/65535/52795315501_b5f7ea7bbc_b.jpg"
+    },
+    {
+      "id": 2,
+      "salis": "Kenija",
+      "zemynas": "Afrika",
+      "populiacija": 53,
+      "valiuta": "Šilingas",
+      "religion": "katalikai",
+      "karalyste": false,
+      "linkas": "google.lt",
+      "dImage": "https://live.staticflickr.com/65535/52795759348_64e9bca669_h.jpg"
+    },
+    {
+      "id": 3,
+      "salis": "Kinija",
+      "zemynas": "Azija",
+      "populiacija": 1412,
+      "valiuta": "Yuanis",
+      "religion": "budizmas",
+      "karalyste": false,
+      "linkas": "google.lt",
+      "dImage": "https://live.staticflickr.com/65535/52795759253_368ab1e876_b.jpg"
+    },
+    {
+      "id": 4,
+      "salis": "Tailandas",
+      "zemynas": "Azija",
+      "populiacija": 71.6,
+      "valiuta": "Bahtai",
+      "religion": "budizmas",
+      "karalyste": true,
+      "linkas": "google.lt",
+      "dImage": "https://live.staticflickr.com/65535/52795117661_00b91baeba_b.jpg"
+    },
+    {
+      "id": 5,
+      "salis": "Graikija",
+      "zemynas": "Europa",
+      "populiacija": 10.6,
+      "valiuta": "Euras",
+      "religion": "krikščionys",
+      "karalyste": false,
+      "linkas": "google.lt",
+      "dImage": "https://live.staticflickr.com/65535/52795357914_bd9926fde6_h.jpg"
+    },
+    {
+      "id": 6,
+      "salis": "Švedija",
+      "zemynas": "Europa",
+      "populiacija": 10.5,
+      "valiuta": "Krona",
+      "religion": "katalikai",
+      "karalyste": true,
+      "linkas": "google.lt",
+      "dImage": "https://cdn.kimkim.com/files/a/images/a3ec12e87c5ceecbdd334327a4d3a61050ffebc7/original-8d8b0e6c6fa43803eb7d67fe02ae8d82.jpg"
+    },
+    {
+      "id": 7,
+      "salis": "Jordanija",
+      "zemynas": "Arabija",
+      "populiacija": 11,
+      "valiuta": "Dinaras",
+      "religion": "musulmonai",
+      "karalyste": true,
+      "linkas": "google.lt",
+      "dImage": "https://live.staticflickr.com/65535/52795509650_a8e76c517e_b.jpg"
+    }
+  ]
+}
